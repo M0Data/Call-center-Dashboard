@@ -1,6 +1,6 @@
 # Call-center-Dashboard
 A Power BI project on the performance of a call center dataset.
-
+![overview of dashboard](image link)
 ## Overview
 This call center dashboard is designed to monitor and evaluate the performance of a call center, providing actionable insights into key metrics such as call volume, agent performance, customer satisfaction, and operational efficiency.
 
